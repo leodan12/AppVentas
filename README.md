@@ -1,3 +1,4 @@
+# AppVentas
 ## ctrlFOOD
 
 Sistema para la venta de comidas y bebidas.
@@ -16,7 +17,7 @@ Orientado a restaurants, fondas, pollerias, pensiones, franquicias de comida rá
 
 `git clone https://github.com/leodan12/AppVentas.git`
 
-`cd ctrlFood`
+`cd AppVentas`
 
 `composer install`
 
