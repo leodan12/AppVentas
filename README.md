@@ -14,7 +14,7 @@ Orientado a restaurants, fondas, pollerias, pensiones, franquicias de comida rá
 
 ## Instalación
 
-`git clone https://github.com/saulmamani/ctrlFood.git`
+`git clone https://github.com/leodan12/AppVentas.git`
 
 `cd ctrlFood`
 
