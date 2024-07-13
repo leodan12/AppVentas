@@ -37,17 +37,3 @@ Ejecutar la aplicación web
 
 `php artisan serv`
 
-## Demo
-
-http://ctrlfood.herokuapp.com/
-
-## Documentación
-
-https://www.slideshare.net/luas0_1/aplicacin-de-scrum-y-uml-para-el-desarrollo-de-un-sistema-de-ventas
-
-
-## Acerca de...
-
-- Desarrollado por: Saul Mamani M.
-- Emial: luas0_1@yahoo.es
-- Website: [https://saulmamani.github.io](https://saulmamani.github.io/) 
